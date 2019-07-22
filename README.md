@@ -21,3 +21,5 @@ and query the openweathermaps.org with that data to build up my analysis.  I am 
 
 Depending upon how time consuming it is to query 500 cities from Openweathermap, I can continue my investigation by doing more samples, and varying the sample size to determine how skewed the analysis would be if I used, say, 50 samples, then 200 and so on.  I purchased a monthly license so I can play games with it.(Freebees are limited to 60 per minute, which they ignore for a while, until they don't. The smart way around it is to put the labored dataset into a file, and use that as a basis for testing)
 
+**Conclusions**
+The notion that the temperature increases towards the equator is false. The temperature his highest in the areas where the sun is directly overhead, and that varies constantly.  Not finished...
